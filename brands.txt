@@ -1,0 +1,50 @@
+Ноутбук: Dell,HP,Lenovo,ASUS,Acer,Apple,Microsoft,MSI,Razer,Huawei
+Смартфон: Apple,Samsung,Xiaomi,Huawei,Google,OnePlus,Oppo,Vivo,Sony,Realme
+Планшет: Apple,Samsung,Huawei,Lenovo,Microsoft,ASUS,Amazon,Xiaomi,Google,Acer
+Монитор: Dell,LG,Samsung,ASUS,Acer,HP,BenQ,AOC,ViewSonic,MSI
+Клавиатура: Logitech,Razer,Corsair,SteelSeries,ASUS,HyperX,Microsoft,HP,Dell,Redragon
+Мышь: Logitech,Razer,Corsair,SteelSeries,ASUS,HyperX,Microsoft,HP,Dell,Redragon
+Телевизор: Samsung,LG,Sony,Philips,Panasonic,TCL,Hisense,Sharp,Vizio,Xiaomi
+Наушники: Sony,Bose,Sennheiser,Beats,JBL,Apple,Skullcandy,AKG,Audio-Technica,Jabra
+Колонка: JBL,Bose,Sony,Harman Kardon,Marshall,Sonos,Bang & Olufsen,Ultimate Ears,Philips,Yamaha
+Фотоаппарат: Canon,Nikon,Sony,Fujifilm,Panasonic,Olympus,Leica,Pentax,GoPro,Hasselblad
+Игровая консоль: Sony,Microsoft,Nintendo,Valve,Nvidia,Razer,Atari,Sega,Hyperkin,Mad Catz
+Принтер: HP,Canon,Epson,Brother,Samsung,Lexmark,Xerox,Ricoh,Kyocera,OKI
+Смарт-часы: Apple,Samsung,Garmin,Fitbit,Huawei,Xiaomi,Fossil,Amazfit,Suunto,Withings
+Системный блок: Dell,HP,Lenovo,ASUS,MSI,Acer,Alienware,Corsair,iBUYPOWER,CyberPowerPC
+Видеокарта: Nvidia,AMD,ASUS,MSI,Gigabyte,EVGA,Zotac,Palit,Sapphire,PNY
+Процессор: Intel,AMD,Qualcomm,Apple,MediaTek,Samsung,Nvidia,IBM,ARM,VIA
+Материнская плата: ASUS,MSI,Gigabyte,ASRock,Intel,Biostar,EVGA,Supermicro,Dell,HP
+Роутер: TP-Link,ASUS,Netgear,D-Link,Linksys,Xiaomi,Huawei,Ubiquiti,Zyxel,Cisco
+USB-накопитель: SanDisk,Kingston,Transcend,Samsung,Corsair,Verbatim,Adata,PNY,Lexar,Patriot
+Внешний аккумулятор: Anker,Xiaomi,Samsung,RavPower,Aukey,Zendure,Baseus,Mophie,Belkin,ROMOSS
+Фитнес-трекер: Fitbit,Garmin,Xiaomi,Huawei,Samsung,Amazfit,Withings,Polar,Suunto,Honor
+Проектор: Epson,BenQ,Sony,LG,ViewSonic,Optoma,Acer,Panasonic,Xiaomi,Vivitek
+Микрофон: Shure,Blue,Audio-Technica,Rode,Sennheiser,AKG,Samson,Neumann,Behringer,MXL
+Веб-камера: Logitech,Microsoft,Razer,Creative,ASUS,HP,AverMedia,Dell,Lenovo,Xiaomi
+Умная колонка: Amazon,Google,Apple,Xiaomi,Yandex,Sonos,JBL,Huawei,Bose,Marshall
+3D-принтер: Creality,Anycubic,Prusa Research,Ultimaker,FlashForge,MakerBot,Formlabs,XYZprinting,LulzBot,Dremel
+VR-гарнитура: Oculus,HTC,Sony,Valve,Samsung,Pimax,HP,Lenovo,Google,Microsoft
+Игровое кресло: Secretlab,DXRacer,AKRacing,Cougar,Vertagear,Noblechairs,Corsair,Razer,AndaSeat,Arozzi
+Игровая мышь: Razer,Logitech,SteelSeries,Corsair,ASUS,Roccat,Zowie,HyperX,Cooler Master,Glorious PC Gaming Race
+Игровая клавиатура: Razer,Corsair,SteelSeries,Logitech,HyperX,ASUS,Cooler Master,Roccat,MSI,Redragon
+Сканер: Canon,Epson,HP,Brother,Fujitsu,Kodak,Xerox,Panasonic,Plustek,Mustek
+Копировальный аппарат: Canon,Xerox,Ricoh,Konica Minolta,Toshiba,Sharp,Kyocera,HP,Brother,Samsung
+Электронная книга: Amazon,Kobo,Barnes & Noble,PocketBook,Sony,Boox,Tolino,Bookeen,Energy Sistem,Onyx
+Медиаплеер: Apple,Roku,Amazon,Google,Nvidia,Xiaomi,Dune HD,Zidoo,Western Digital,Ematic
+Зарядное устройство: Anker,Aukey,Belkin,Samsung,Xiaomi,RAVPower,UGREEN,Baseus,Mophie,Spigen
+Система охлаждения: Cooler Master,Noctua,Corsair,Thermaltake,NZXT,Be Quiet!,Deepcool,Arctic,MSI,ASUS
+Смарт-розетка: TP-Link,Belkin,Amazon,Xiaomi,Kasa,Meross,D-Link,Teckin,Leviton,Philips Hue
+Умная лампа: Philips Hue,Xiaomi,TP-Link,LIFX,Sengled,GE Lighting,IKEA,Nanoleaf,Wiz,Wyze
+GPS-навигатор: Garmin,TomTom,Magellan,Rand McNally,Navman,Mio,Blaupunkt,Pioneer,Alpine,Kenwood
+Автомобильный видеорегистратор: Garmin,BlackVue,Thinkware,Nextbase,VIOFO,Xiaomi,Vantrue,Rexing,70mai,Cobra
+Умный замок: August,Yale,Schlage,Kwikset,Ultraloq,Samsung,Nuki,Lockly,Eufy,Igloohome
+Робот-пылесос: iRobot,Roborock,Ecovacs,Neato,Eufy,Xiaomi,Shark,ILIFE,Proscenic,Dyson
+Компьютерные колонки: Logitech,Creative,Edifier,Bose,JBL,Harman Kardon,Klipsch,Razer,Audioengine,Corsair
+Wi-Fi адаптер: TP-Link,ASUS,Netgear,D-Link,Linksys,Edimax,Alfa Network,Tenda,UGREEN,TRENDnet
+ТВ-приставка: Apple,Amazon,Google,Nvidia,Xiaomi,Roku,Zidoo,Dune HD,Mecool,Ematic
+NAS-сервер: Synology,QNAP,Western Digital,Seagate,Buffalo,Netgear,Asustor,TerraMaster,Lenovo,Drobo
+Внутренний жесткий диск: Seagate,Western Digital,Toshiba,Samsung,Hitachi,HGST,Intel,Kingston,Crucial,Adata
+Bluetooth-адаптер: TP-Link,ASUS,UGREEN,Avantree,Kinivo,Plugable,Sabrent,Zexmte,Techkey,IOGEAR
+Док-станция: Dell,HP,Lenovo,Kensington,Targus,CalDigit,Plugable,Anker,Belkin,StarTech
+Умный термостат: Nest,Ecobee,Honeywell,Tado,Emerson,Lux Products,Bosch,Johnson Controls,Hive,Schneider Electric
